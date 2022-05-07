@@ -1,3 +1,8 @@
+/***************************************/
+/* Accomplished by: Dhony Mark Mendoza */
+/* Progress Date: 2021                 */
+/* Date: March 6, 2022                 */
+/***************************************/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
